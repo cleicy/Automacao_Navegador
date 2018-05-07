@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="CPX-T4KGSA7XYC5" id="0" name="test1" package="Principal" skipped="0" tests="1" time="14.131" timestamp="07 mai 2018 17:00:17 GMT">
+      <testcase classname="Principal.test1" name="f" time="14.131" />
+
+  </testsuite>
+</testsuites>
